@@ -3,5 +3,5 @@ pandas==1.0.5
 numpy==1.18.5
 xlrd==1.2.0
 plotly==4.14.3
-plotly.express==0.4.1
+plotly.express==0.4.1 cufflinks
 networkx==2.5.1
