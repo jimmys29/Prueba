@@ -1,4 +1,4 @@
-streamlit==0.80.0
+streamlit==0.82.0
 pandas==1.0.5
 numpy==1.18.5
 xlrd==1.2.0
